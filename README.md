@@ -1,8 +1,4 @@
-#Batiqu Apps
-
----
-
-![img](https://raw.githubusercontent.com/Tnembull/BatiquApp/main/app/src/main/res/drawable/poster.jpeg)
+![img](https://raw.githubusercontent.com/Tnembull/BatiquApp/master/app/src/main/res/drawable/poster.jpeg)
 
 ---
 
